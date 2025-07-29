@@ -1,5 +1,5 @@
 /*
-sum_of_two.c
+area_rectangle.c
 Area of rectangle
 Read length & breadth, compute area using area = length * breadth.
 */
